@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/carlosr-rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamimsikder" height="30" width="40" /></a>
 </p>
 
-- 🏫 I’m currently a student and am doing systems engineer as my major.
+- 🏫 I’m currently a student and im doing systems engineer as my major.
 - 🔭 Currently learning and growing my skillset 
 - 💻 I love exploring new tech stack and building new projects
 - 📫 How to reach me: visit my [linkedin](https://linkedin.com/in/carlosr-rocha)
